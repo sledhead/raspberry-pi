@@ -12,3 +12,6 @@ $BSTR = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($en_str)
 $PlainPassword = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($BSTR)
 
 $new_var = "the Man is home"
+
+
+$new_id = "The man"
