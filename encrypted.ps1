@@ -1,5 +1,5 @@
 ﻿#$plain_str = "The Test"
-$plain_str = Get-Content "testcool.csv"
+$plain_str = Get-Content "testcool_v2.csv"
 
 [Byte[]] $key = (1..16)
 
